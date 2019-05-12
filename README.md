@@ -12,7 +12,7 @@ This is my Final project in the FrontEnd Web Developer Nanodegree course on Udac
 
 ## How to Launch the App
 Ensure that you have installed Python in you computer and set python environment variable global.
-download or cloe the files.
+download or clone the files.
 
 run and launch a local client server using Python from your terminal: 
 Python 2: python -m SimpleHTTPServer 8000 
